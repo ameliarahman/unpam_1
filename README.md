@@ -2,6 +2,7 @@
 SDLC 1.
 Write down your bio:
 
-- Name: Amelia Rahman
+- Name: Ramlan Kusuma
 - Role: Backend Engineer
+
 
