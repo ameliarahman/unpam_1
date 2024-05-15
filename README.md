@@ -2,6 +2,6 @@
 SDLC 1.
 Write down your bio:
 
-- Name: Amelia Rahman
-- Role: Backend Engineer
+- Name: Aditya Bayu Prasetya
+- Role: Network Administrator
 
