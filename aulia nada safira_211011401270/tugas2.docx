@@ -1,6 +1,5 @@
 **sistem order direstgioran**
 1. fungsional
-- Login atau masuk sebagai tamu
 - Pelanggan menelusuri menu, memilih item, dan menambahkannya ke keranjang
 - Konfirmasi pesanan dan memilih metode pembayaran
 - Staf dapur memproses dan menyiapkan makanan
@@ -18,4 +17,11 @@
 - Melacak ketersediaan bahan baku yang dibutuhkan untuk setiap pesanan
 - Menyediakan resep lengkap untuk setiap menu, termasuk langkah-langkah persiapan dan waktu memasak
 - Menyediakan resep lengkap untuk setiap menu, termasuk langkah-langkah persiapan dan waktu memasak.
+4. non-fungsional 
+- Informasi sensitif dienkripsi selama penyimpanan dan transmisi
+- Sistem harus dapat menangani banyak pesanan secara bersamaan tanpa degradasi kinerja
+- Sistem harus memiliki kemampuan pemulihan otomatis dari kegagalan
+- Informasi harus ditampilkan dengan jelas, menghindari teks kecil dan warna yang sulit dibaca
+- Dapat digunakan pada berbagai perangkat yang tersedia di dapur, seperti tablet atau layar sentuh
+- Mengurangi konsumsi daya agar perangkat dapur yang menggunakan sistem dapat bertahan lebih lama
 
