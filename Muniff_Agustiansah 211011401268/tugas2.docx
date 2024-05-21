@@ -1,0 +1,43 @@
+SISTEM ORDER di RESTAURANT
+TERDAPAT 2 ROLE YAITU USER DAN KOKI
+
+SISTEM ORDER di MEJA
+FUNGSIONALITAS
+- User melihat menu: User dapat melihat menu makanan yang tersedia, beserta deskripsi, harga, dan gambar.
+- Pencarian menu: User dapat melakukan pencarian menu berdasarkan nama, kategori, atau bahan utama.
+- Edit pesanan: User dapat mengedit pesanan sebelum menekan tombol submit.
+- Pilih metode pembayaran: User dapat memilih metode pembayaran (tunai, kartu kredit/debit, digital payment) atau melakukan pembayaran langsung dari meja.
+- Riwayat pesanan: User dapat melihat riwayat pesanan mereka sebelumnya.
+- Feedback dan rating: User dapat memberikan feedback dan rating untuk makanan dan layanan.
+- Pelanggan diberikan opsi untuk memberikan tip secara tunai kepada pelayan atau staf restoran setelah menerima layanan.
+
+SISTEM UNTUK KOKI
+FUNGSIONALITAS
+- Lihat pesanan real-time: Koki dapat melihat semua pesanan yang masuk secara real-time.
+- Ubah status pesanan: Koki dapat mengubah status pesanan dari baru menjadi sedang diproses, selesai, atau siap diantar.
+- Prioritas pesanan: Koki dapat melihat pesanan berdasarkan prioritas, misalnya pesanan yang harus diselesaikan lebih cepat.
+- Riwayat pesanan: Koki dapat melihat riwayat pesanan yang telah selesai.
+- Pantau stok bahan baku: Koki dapat memantau stok bahan baku dan menerima notifikasi ketika stok menipis.
+- Akses resep: Koki dapat mengakses, mengedit, dan menambah resep baru.
+- Pemberitahuan khusus: Koki menerima pemberitahuan khusus dari server atau manajemen mengenai pesanan khusus atau perubahan menu.
+- Laporan kinerja: Koki dapat melihat laporan kinerja harian, mingguan, atau bulanan.
+
+---
+
+SISTEM ORDER di MEJA
+NON-FUNGSIONALITAS
+- Responsif dan cepat: Sistem harus responsif dan cepat dalam memproses permintaan.
+- Uptime tinggi: Sistem harus memiliki uptime tinggi dan minim downtime.
+- Keamanan: Sistem harus aman dari akses tidak sah dan melindungi data pribadi user.
+- Kemudahan penggunaan: Sistem harus mudah digunakan oleh user dengan berbagai tingkat keterampilan teknologi.
+- Skalabilitas: Sistem harus mampu menangani peningkatan jumlah user dan pesanan tanpa penurunan performa.
+- Kemudahan pemeliharaan: Sistem harus mudah dipelihara dan diperbaharui.
+
+SISTEM UNTUK KOKI
+NON-FUNGSIONALITAS
+- Cepat dan responsif: Sistem harus cepat dan responsif, meminimalkan waktu tunggu untuk melihat atau memperbarui pesanan.
+- Stabilitas: Sistem harus stabil dengan downtime minimal, memastikan koki selalu dapat mengakses informasi pesanan.
+- Keamanan data: Data pesanan dan resep harus aman dari akses tidak sah.
+- Kompatibilitas perangkat: Sistem harus dapat berjalan di berbagai perangkat yang digunakan di dapur, seperti tablet atau layar sentuh.
+- Skalabilitas: Sistem harus dapat menangani peningkatan jumlah pesanan tanpa penurunan performa.
+- Kemudahan pemeliharaan: Sistem harus mudah diperbarui dan dipelihara, dengan dokumentasi lengkap untuk perbaikan dan penambahan fitur.
