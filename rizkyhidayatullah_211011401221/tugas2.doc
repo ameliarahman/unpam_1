@@ -21,7 +21,7 @@ sistem untuk koki
 
 NON-FUNGSIONAL
 -Antarmuka pengguna harus intuitif dan mudah digunakan oleh pengguna dengan berbagai tingkat keahlian teknologi.
--Sistem hanya bisa diakses di restoran atau di rumah menggunakan aplikasi.
+-Sistem hanya bisa diakses di restoran atau di rumah menggunakan aplikasis
 -Sistem harus melindungi data pelanggan dan informasi pembayaran dengan baik.
 -Sistem harus mampu merespon input pengguna dengan cepat.
 -Pemrosesan pesanan harus dilakukan dalam waktu kurang dari 5 detik setelah user menekan tombol submit.
