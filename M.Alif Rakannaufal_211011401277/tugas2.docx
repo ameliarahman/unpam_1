@@ -1,19 +1,26 @@
             **sistem order direstoran**
-            1. fungsional
+            1. fungsional sistem order
                 - menambahkan menu spiltbill jika beramai"
-                - pesanan langsung ke dapur, mengurangi risiko kesalahan dalam penyaian
+                - interaktivitas, tablet dapat menyediakan informasi tambahan seperti asal-usul bahan, cara memasak, dan rekomendasi pairing minuman, meningkatkan edukasi dan kepuasan pelanggan.
                 - user dapat modifikasi pesanan, dapat  mengurangi atau menambahkan bahan makanan
                 - user dapat  memilih metode pembayaran seperti e-wallet,cash,qris, atau debit
                 - user dapat melihat promosi, diskon, atau penawaran paket berdasarkan preferensi pelanggan
-            2. non-fungsional
+            2. fungsional sistem koki
+                - pembaharuan stok real time pada bahan
+                - peringatan stok rendah pada bahan 
+                - menghasilkan laporan harian dari jumlah pemesanan, waktu persiapan, dan penggunaan bahan
+                - staf dapur harus memiliki login masing-masing untuk mengakses sistem 
+                - distribusi tugas, dapat mengalokasikan ke berbagai stasiun kerja.
+            3. non-fungsional sistem order
                 - perlindungan data pelanggan dan informasi pembayaran
                 - kemamanan jaringann, tablet harus aman dari seragan siber
                 - aksesbilitas, tablet harus bisa digunakan untuk semua pelanggan termasuk pelanggan dengan kebutuhan khusus
                 - sistem harus mampu menangani peningkatan jumlah  pengguna dan data tanpa degadrasi performa
                 - waktu muat sistem untuk setiap halaman atau fitur harus minimal untuk memastikan pengalaman yang lancar bagi pelanggan
-            3. sistem untuk koki
-                - pembaharuan stok real time pada bahan
-                - peringatan stok rendah pada bahan 
-                - menghasilkan laporan harian dari jumlah pemesanan, waktu persiapan, dan penggunaan bahan
-                - staf dapur harus memiliki login masing-masing untuk mengakses sistem 
-                - distribusi tugas, dapat mengalokasikan ke berbagai stasiun kerja
+            4. non-fungsional sistem koki
+                - proteksi data pelanggan dan informasi pemesanan harus dilindungi dari akses tidak sah
+                - antarmuka pengguna harus mudah digunakan staff dapur
+                - sistem harus mendukung pembaharuan perangkat lunak secara berkala tanpa mengganggu operasi dapur
+                - Sistem dapur harus kompatibel dengan sistem pemesanan tablet dan perangkat lunak manajemen restoran lainnya
+                - Sistem harus mencatat semua aktivitas dan perubahan yang dilakukan dalam sistem untuk kepentingan audit dan pelacakan masalah 
+           
