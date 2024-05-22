@@ -1,0 +1,54 @@
+1. Create folder: Name_NIK
+2. Insert functionality and non-functionality list of "Order in Restaurant" in docx file
+
+
+
+KEBUTUHAN FUNGSIONAL SISTEM PEMESANAN PADA RESTORAN.
+- Aktor Pelanggan
+1. Desain UI yang intuitif : Tampilan yang sederhana dan mudah dinavigasi untuk semua kelompok usia.
+2. Panduan step by step : Instruksi jelas yang membimbing pengguna melalui proses pemesanan.
+3. Fitur reservasi pada meja : Kalender dan jam untuk memilih tanggal dan waktu reservasi yang diinginkan,
+tambahkan opsi untuk memasukan jumlah tamu yang akan datang dan preferensi khusus untuk mencatat permintaan khusus seperti meja dekat jendela atau kebutuhan diet tertentu.
+4. Sistem mampu untuk melihat detail pemesanan dan melakukan perubahan jika diperlukan.
+5. Sistem mampu memberikan opsi untuk membatalkan reservasi dengan cepat dan tanpa kesulitan.
+6. Dukungan sistem untuk berbagai metode pembayaran, termasuk kartu kredit, e-wallet dan pembayaran langsung di restoran.
+7. Sistem dapat menjamin keamanan data pribadi dan informasi pembayaran pelanggan.
+8. Sistem mampu mengonfirmasi dan memberikan pemberitahuan terkait dengan waktu reservasi atau pemberitahuan jika ada perubahan status reservasi.
+
+- Aktor Koki/Chef
+1. Sistem harus dapat menerima dan menampilkan pesanan secara real-time, baik dari pelanggan di tempat maupun dari pesanan online.
+2. Sistem mampu untuk menetapkan prioritas pada pesanan, seperti pesanan yang mendesak atau khusus.
+3. Sistem harus bisa menampilkan status setiap pesanan. Misalnya, sedang diproses, sedang dimasak, siap disajikan).
+4. Kemampuan sistem untuk memperbarui menu secara langsung, termasuk perubahan harga, ketersediaan item dan spesial harian.
+5. Sistem bisa menghasilkan daftar bahan yang dibutuhkan berdasarkan pesanan yang masuk.
+Integrasi dengan sistem manajemen inventaris untuk melacak ketersediaan bahan baku secara real-time dan memicu pengisian stok saat diperlukan.
+6. Terdapat fitur untuk menjadwalkan staf dapur berdasarkan perkiraan volume pesanan.
+7. Sistem mampu memberikan laporan harian, mingguan dan bulanan tentang jumlah pesanan yang diselesaikan, waktu penyelesaian rata-rata dan kinerja dapur.
+8. UI yang dirancang khusus untuk penggunaan dapur, dengan tampilan yang jelas dan navigasi yang mudah.
+
+
+KEBUTUHAN NON-FUNGSIONAL SISTEM PEMESANAN PADA RESTORAN.
+- Aktor Pelanggan
+1. Reliability: 
+- Sistem harus memiliki tingkat ketersediaan yang tinggi (misalnya, 99.9% uptime) agar pelanggan dapat memesan kapan saja tanpa mengalami gangguan.
+- Kemampuan sistem untuk pulih dengan cepat dari kegagalan atau gangguan sistem.
+2. Performance:
+- Sistem harus merespons dengan cepat terhadap permintaan pengguna, seperti konfirmasi pemesanan dengan waktu respon maksimal 0,001 milidetik.
+- Sistem harus dapat menangani lonjakan permintaan, misalnya selama waktu makan malam atau promosi khusus, tanpa penurunan kinerja.
+3. Security
+- Semua data sensitif, termasuk informasi pribadi dan detail pembayaran, harus dienkripsi untuk melindungi dari akses tidak sah.
+- Sistem harus memastikan bahwa hanya pengguna yang sah dapat mengakses dan memodifikasi data mereka sendiri.
+4. Usability
+- Sistem harus dapat diakses oleh pengguna dengan berbagai kebutuhan, termasuk dukungan untuk pengguna dengan disabilitas.
+
+- Aktor Koki/Chef
+1. Reliability
+- Sistem harus selalu tersedia, terutama selama jam operasional, untuk memastikan dapur dapat menerima dan memproses pesanan tanpa gangguan.
+2. Security
+- Hanya staf yang berwenang yang dapat mengakses sistem dan data pesanan untuk mencegah perubahan atau manipulasi data yang tidak sah.
+3. Usability
+- Sistem harus mudah dipelajari, dengan pelatihan minimal, agar staf dapur dapat menggunakannya dengan efektif.
+4.Efficiency
+- Sistem harus efisien dalam penggunaan sumber daya untuk memastikan tidak ada beban tambahan pada infrastruktur dapur.
+5. Robustness
+- Sistem harus memiliki mekanisme pencadangan data yang rutin untuk mencegah kehilangan informasi penting.
