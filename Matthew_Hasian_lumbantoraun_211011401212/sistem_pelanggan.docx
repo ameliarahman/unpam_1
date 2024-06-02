@@ -1,0 +1,15 @@
+A. Spesifikasi Fungsional
+
+1. Pemilihan Meja dan Jumlah Pengunjung  : Pelanggan dapat memilih meja yang tersedia dan memasukkan jumlah pengunjung sebelum melakukan pemesanan.
+2. Personalisasi Menu                    : Pelanggan dapat mempersonalisasi pesanan mereka, seperti memilih opsi vegetarian atau bebas gluten, dan menambahkan atau menghapus bahan tertentu dari menu.
+3. Rekomendasi Menu                      : Sistem memberikan rekomendasi menu berdasarkan pesanan sebelumnya atau popularitas menu tertentu di restoran.
+4. Pelacakan Pesanan                     : Pelanggan dapat melacak status pesanan mereka secara real-time, mulai dari penerimaan pesanan di dapur hingga pesanan siap disajikan.
+5. Ulasan dan Rating                     : Setelah selesai makan, pelanggan dapat memberikan ulasan dan rating terhadap makanan dan layanan yang mereka terima.
+
+B. Spesifikasi Non-Fungsional
+
+1. Kinerja Tinggi               : Sistem harus mampu menangani banyak pengguna secara bersamaan tanpa lag atau downtime, terutama selama jam sibuk.
+2. Antarmuka Pengguna Responsif : Desain antarmuka harus responsif dan mudah digunakan di berbagai perangkat seperti smartphone dan tablet.
+3. Keamanan Transaksi           : Semua transaksi pembayaran harus dienkripsi dan aman dari potensi penipuan atau pencurian data.
+4. Dukungan Multibahasa         : Sistem harus mendukung beberapa bahasa untuk melayani pelanggan dari berbagai latar belakang.
+5. Pemulihan Bencana            :Sistem harus memiliki mekanisme pemulihan bencana yang efisien untuk mencegah kehilangan data dalam situasi darurat.
