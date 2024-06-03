@@ -1,0 +1,67 @@
+Fungsional
+1. Fitur Dine-In
+Pemilihan Meja
+
+Sistem memungkinkan pelanggan untuk memilih meja yang tersedia melalui antarmuka pengguna.
+Sistem menampilkan status ketersediaan meja secara real-time.
+Pemrosesan Pesanan
+
+Pelanggan dapat memesan makanan dan minuman dari menu digital.
+Sistem mencatat pesanan dan mengirimkannya ke dapur.
+Pembayaran
+
+Sistem mendukung berbagai metode pembayaran, termasuk kartu kredit, debit, dan pembayaran digital.
+Sistem menghasilkan struk pembayaran digital.
+2. Fitur Delivery
+Registrasi dan Login Pengguna
+
+Sistem memungkinkan pelanggan untuk mendaftar dan masuk menggunakan akun mereka.
+Pemilihan Lokasi Pengiriman
+
+Pelanggan dapat memasukkan alamat pengiriman.
+Sistem memvalidasi alamat pengiriman untuk memastikan area cakupan.
+Pemrosesan Pesanan
+
+Pelanggan dapat memilih makanan dan minuman dari menu digital.
+Sistem menghitung biaya pengiriman berdasarkan jarak.
+Pelacakan Pesanan
+
+Sistem menyediakan pelacakan real-time untuk pesanan yang sedang dikirimkan.
+3. Fitur Kitchen (Dapur)
+Manajemen Pesanan
+
+Sistem menampilkan pesanan yang masuk secara real-time kepada staf dapur.
+Sistem mengatur prioritas pesanan berdasarkan waktu pemesanan dan jenis layanan (dine-in atau delivery).
+Manajemen Inventaris
+
+Sistem melacak penggunaan bahan baku dan memperbarui stok secara otomatis.
+Sistem mengirimkan notifikasi untuk bahan baku yang mendekati batas minimum stok.
+
+Non-Fungsional
+Keamanan
+
+Sistem harus memiliki mekanisme autentikasi dan otorisasi yang kuat untuk melindungi data pelanggan.
+Semua data sensitif harus dienkripsi, baik saat disimpan maupun saat ditransmisikan.
+Kinerja
+
+Sistem harus mampu menangani setidaknya 5000 pengguna secara bersamaan tanpa penurunan kinerja.
+Respons waktu sistem untuk setiap permintaan tidak boleh lebih dari 2 detik.
+Skalabilitas
+
+Sistem harus dirancang agar mudah ditingkatkan skalanya untuk menangani peningkatan jumlah pengguna dan pesanan.
+Reliabilitas
+
+Sistem harus memiliki waktu aktif (uptime) minimal 99,9%.
+Sistem harus memiliki mekanisme backup dan recovery untuk memastikan data tidak hilang.
+Usability
+
+Antarmuka pengguna harus intuitif dan mudah digunakan, bahkan bagi pengguna yang tidak terlalu paham teknologi.
+Sistem harus menyediakan panduan pengguna dan bantuan online.
+Kompatibilitas
+
+Sistem harus dapat diakses melalui berbagai perangkat, termasuk desktop, tablet, dan smartphone.
+Sistem harus kompatibel dengan berbagai browser dan sistem operasi.
+Pemeliharaan
+
+Sistem harus dirancang sedemikian rupa sehingga mudah diperbarui dan dipelihara.
+Dokumentasi sistem harus lengkap dan mudah dipahami oleh tim pemeliharaan.
