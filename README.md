@@ -3,4 +3,4 @@ SDLC 1.
 Write down your bio:
 
 - Name: Aulia Nada Safira
-- Role: UI\UX
+- Role: UI\Ux
