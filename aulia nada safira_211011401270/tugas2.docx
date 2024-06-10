@@ -9,7 +9,7 @@
 - Mekanisme caching digunakan untuk mengurangi waktu akses ke data yang sering digunakan
 - Backup data dilakukan secara otomatis setiap 30 menit
 - Desain antarmuka diuji dengan berbagai kelompok pengguna untuk memastikan kemudahan penggunaan
-- Pengujian kompatibilitas dilakukan pada berbagai model tablet dengan sistem operasi iOS dan Android
+- Pengujian kompatibilitas dilakukan pada berbagai model tablet dengan sistem operasi iOS dan Android.
 3. sistem untuk koki
 - Daftar pesanan yang diterima dengan rincian item dan catatan khusus
 - Informasi lengkap tentang setiap item dalam pesanan, termasuk bahan, ukuran porsi, dan instruksi khusus
