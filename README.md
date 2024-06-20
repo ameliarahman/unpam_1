@@ -2,6 +2,6 @@
 SDLC 1.
 Write down your bio:
 
-- Name: Amelia Rahman
+- Name: Fahrizal Pratama
 - Role: Backend Engineer
 

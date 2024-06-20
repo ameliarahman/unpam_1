@@ -1,0 +1,21 @@
+SISTEM ORDER di RESTAURANT
+
+TERDAPAT 2 ROLE YAITU USER DAN KOKI
+
+#SISTEM ORDER di MEJA
+##NON-FUNGSIONALITAS
+- Sistem harus responsif dan cepat dalam memproses permintaan
+- Sistem harus memiliki uptime tinggi dan minim downtime
+- Sistem harus aman dari akses tidak sah dan melindungi data pribadi user
+- Sistem harus mudah digunakan oleh user dengan berbagai tingkat keterampilan teknologi
+- Sistem harus mampu menangani peningkatan jumlah user dan pesanan tanpa penurunan performa
+- Sistem harus mudah dipelihara dan diperbaharui
+
+#SISTEM UNTUK KOKI
+##NON-FUNGSIONALITAS
+- Sistem harus cepat dan responsif, meminimalkan waktu tunggu untuk melihat atau memperbarui pesanan
+- Sistem harus stabil dengan downtime minimal, memastikan koki selalu dapat mengakses informasi pesanan
+- Data pesanan dan resep harus aman dari akses tidak sah
+- Sistem harus dapat berjalan di berbagai perangkat yang digunakan di dapur, seperti tablet atau layar sentuh
+- Sistem harus dapat menangani peningkatan jumlah pesanan tanpa penurunan performa
+- Sistem harus mudah diperbarui dan dipelihara, dengan dokumentasi lengkap untuk perbaikan dan penambahan fitur
