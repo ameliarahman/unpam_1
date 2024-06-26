@@ -1,2 +1,0 @@
-1. Create folder: Arip Subiyanto_211011401243_Tugas3
-2. Please create activity diagram of system order in Restaurant (order dine-in, delivery and kitchen).
