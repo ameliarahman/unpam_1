@@ -1,0 +1,38 @@
+Sistem untuk user
+Fungsionalitas untuk user
+- User dapat mendaftar akun baru dengan memasukkan informasi yang diperlukan (nama, email, kata sandi).
+- User dapat login ke sistem menggunakan kredensial mereka.
+- User dapat melihat daftar menu makanan dan minuman yang tersedia di restoran.
+- Menu dilengkapi dengan deskripsi, harga, dan gambar.
+- User dapat memilih item dari menu dan menambahkannya ke keranjang belanja.
+- User dapat melihat ringkasan pesanan sebelum melakukan pemesanan.
+- User dapat memilih metode pembayaran (tunai, kartu kredit, dll.).
+- User dapat memberikan ulasan dan rating untuk makanan yang mereka pesan.
+- User dapat melihat riwayat pesanan mereka sebelumnya.
+
+Non Fungsionalitas untuk user
+- Sistem harus cepat dalam memuat halaman dan responsif terhadap interaksi pengguna.
+- Sistem harus mampu menangani banyak pengguna yang mengakses aplikasi secara bersamaan tanpa penurunan kinerja.
+- Informasi pribadi pengguna, termasuk data login dan pembayaran, harus dienkripsi.
+- Sistem harus memastikan bahwa hanya pengguna yang terautentikasi dapat mengakses fitur yang sesuai.
+- Sistem harus selalu tersedia selama jam operasional restoran.
+- Data pesanan harus disimpan dengan aman dan dapat dipulihkan jika teSrjadi kegagalan.
+- Sistem harus dapat menangani peningkatan jumlah pengguna dan pesanan seiring dengan pertumbuhan restoran.
+
+Sistem untuk Koki
+Fungsionalitas untuk Koki
+- Koki dapat melihat daftar pesanan baru yang masuk ke sistem.
+- Pesanan ditampilkan dengan detail item dan jumlah.
+- Koki dapat memperbarui status pesanan (misalnya, sedang diproses, siap untuk diambil).
+- Koki atau manajer dapur dapat menambahkan, mengedit, atau menghapus item dari menu.
+- Koki dapat mengatur ketersediaan item (misalnya, menandai item sebagai habis).
+
+Non Fungsionalitas untuk Koki
+- Sistem harus memberikan respons cepat saat koki mengakses dan memperbarui pesanan.
+- Sistem harus mampu menangani banyak pesanan secara bersamaan tanpa penurunan kinerja.
+- Hanya koki dan staf yang berwenang yang dapat mengakses dan mengelola pesanan serta menu.
+- Akses ke sistem harus dilindungi dengan kata sandi dan enkripsi data.
+- Sistem harus selalu tersedia dan dapat diandalkan selama jam operasional.
+- Data pesanan dan perubahan menu harus disimpan dengan aman dan dapat dipulihkan jika terjadi kegagalan.
+- Sistem harus mudah diperbarui dan dipelihara.
+- Sistem harus mampu menangani peningkatan jumlah pesanan dan koki yang mengakses sistem seiring dengan pertumbuhan restoran.
