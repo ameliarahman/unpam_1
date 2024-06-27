@@ -1,2 +1,29 @@
 1. Create folder: Name_NIK
 2. Insert functionality and non-functionality list of "Order in Restaurant" in docx file. Use table to write down the list. Please listen carefully to what user/customer needs.
+FUNGSIIONAL
+Sistem order di meja
+-User dapat memilih untuk memesan makanan secara dine-in atau delivery.
+-Pesanan yang dipilih akan dikirimkan ke dapur secara otomatis untuk diproses oleh koki.
+-User dapat melihat daftar menu makanan yang tersedia di restoran.
+-User dapat melakukan pencarian menu untuk menemukan item makanan yang diinginkan.
+-User dapat mengedit pesanan mereka sebelum mengirimkan pesanan ke dapur.
+-Ketika user memilih menu makanan, mereka dapat mengklik tombol tambah untuk menambahkan item ke pesanan mereka.
+-User dapat menambahkan opsi split bill jika mereka makan bersama dalam grup.
+-User dapat memilih metode pembayaran yang diinginkan.
+-Pelanggan diberikan opsi untuk memberikan tip secara tunai kepada pelayan atau staf restoran setelah menerima layanan.
+-Sistem dapat memberikan rekomendasi menu berdasarkan pesanan sebelumnya atau popularitas item.
+-User dapat memberikan penilaian dan ulasan untuk makanan yang mereka pesan langsung melalui tablet.
+-Sistem menyediakan informasi nutrisi untuk setiap menu, membantu pelanggan membuat pilihan makanan yang lebih sehat.
+
+sistem untuk koki
+-Koki dapat mengatur prioritas pesanan berdasarkan waktu dan jenis pesanan.
+-Sistem akan melakukan pembaharuan stok bahan secara real-time.
+-Sistem dapat menghasilkan laporan harian yang mencakup jumlah pemesanan, waktu persiapan, dan penggunaan bahan.
+-Sistem akan memberikan peringatan jika stok bahan sudah rendah.
+
+NON-FUNGSIONAL
+-Antarmuka pengguna harus intuitif dan mudah digunakan oleh pengguna dengan berbagai tingkat keahlian teknologi.
+-Sistem hanya bisa diakses di restoran atau di rumah menggunakan aplikasi.
+-Sistem harus melindungi data pelanggan dan informasi pembayaran dengan baik.
+-Sistem harus mampu merespon input pengguna dengan cepat.
+-Pemrosesan pesanan harus dilakukan dalam waktu kurang dari 5 detik setelah user menekan tombol submit.
