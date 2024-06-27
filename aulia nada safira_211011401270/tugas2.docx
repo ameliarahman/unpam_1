@@ -1,0 +1,27 @@
+**sistem order direstgioran**
+1. fungsional
+- Pelanggan menelusuri menu, memilih item, dan menambahkannya ke keranjang
+- Konfirmasi pesanan dan memilih metode pembayaran
+- Staf dapur memproses dan menyiapkan makanan
+- Staf mengantar makanan ke meja pelanggan
+2. non-fungsional 
+- Semua data pengguna dienkripsi saat disimpan dan saat transmisi
+- Mekanisme caching digunakan untuk mengurangi waktu akses ke data yang sering digunakan
+- Backup data dilakukan secara otomatis setiap 30 menit
+- Desain antarmuka diuji dengan berbagai kelompok pengguna untuk memastikan kemudahan penggunaan
+- Pengujian kompatibilitas dilakukan pada berbagai model tablet dengan sistem operasi iOS dan Android.
+3. sistem untuk koki
+- Daftar pesanan yang diterima dengan rincian item dan catatan khusus
+- Informasi lengkap tentang setiap item dalam pesanan, termasuk bahan, ukuran porsi, dan instruksi khusus
+- Mengirim notifikasi ke pelayan atau sistem layanan ketika pesanan siap untuk diantarkan
+- Melacak ketersediaan bahan baku yang dibutuhkan untuk setiap pesanan
+- Menyediakan resep lengkap untuk setiap menu, termasuk langkah-langkah persiapan dan waktu memasak
+- Menyediakan resep lengkap untuk setiap menu, termasuk langkah-langkah persiapan dan waktu memasak.
+4. non-fungsional 
+- Informasi sensitif dienkripsi selama penyimpanan dan transmisi
+- Sistem harus dapat menangani banyak pesanan secara bersamaan tanpa degradasi kinerja
+- Sistem harus memiliki kemampuan pemulihan otomatis dari kegagalan
+- Informasi harus ditampilkan dengan jelas, menghindari teks kecil dan warna yang sulit dibaca
+- Dapat digunakan pada berbagai perangkat yang tersedia di dapur, seperti tablet atau layar sentuh
+- Mengurangi konsumsi daya agar perangkat dapur yang menggunakan sistem dapat bertahan lebih lama
+
