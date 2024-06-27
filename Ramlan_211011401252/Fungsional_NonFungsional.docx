@@ -1,0 +1,19 @@
+Fungsional untuk sistem restoran:
+
+1. Pemesanan Makanan: Sistem harus memungkinkan pelanggan untuk memesan makanan secara online atau di tempat.
+2. Manajemen Menu: Sistem harus memungkinkan staf untuk menambah, mengubah, atau menghapus item menu.
+3. Pembayaran: Sistem harus menyediakan berbagai metode pembayaran seperti kartu kredit, debit, dan pembayaran digital.
+4. Manajemen Meja: Sistem harus memungkinkan staf untuk mengelola reservasi dan penempatan meja.
+5. Laporan Penjualan: Sistem harus dapat menghasilkan laporan penjualan harian, mingguan, dan bulanan.
+6. Manajemen Inventaris: Sistem harus melacak inventaris bahan makanan dan memberikan peringatan ketika stok menipis.
+7. Program Loyalitas: Sistem harus mendukung program loyalitas pelanggan, seperti pemberian poin atau diskon khusus.
+
+Non-fungsional untuk sistem restoran:
+
+1. Kinerja: Sistem harus dapat menangani pemesanan hingga 1000 pelanggan per hari tanpa penurunan kinerja.
+2. Keamanan: Sistem harus melindungi data pelanggan dengan enkripsi dan autentikasi yang kuat.
+3. Ketersediaan: Sistem harus memiliki uptime minimal 99.9%, artinya harus selalu tersedia kecuali dalam waktu pemeliharaan yang terjadwal.
+4. Skalabilitas: Sistem harus dapat dengan mudah di-upgrade untuk menangani peningkatan jumlah pengguna dan data.
+5. Usability: Antarmuka pengguna harus intuitif dan mudah digunakan baik oleh staf maupun pelanggan.
+6. Portabilitas: Sistem harus dapat diakses dari berbagai perangkat seperti desktop, tablet, dan smartphone.
+7. Maintainability: Sistem harus dirancang agar mudah dipelihara dan diperbarui oleh tim teknis.
