@@ -1,0 +1,17 @@
+Ferdi Ardiyansyah_211011401217
+Functional
+Meja:
+Pelanggan bisa memilih menu
+Menentukan jumlah pesanan
+Memilih jenis pembayaran
+Memilih dine in atau take home
+Koki:
+Memberikan informasi tersedianya menu
+Memberi tahu stok makanan 
+
+Non Functional
+Meja:
+    Memproses makanan tidak lebih dari 10detik
+koki:
+    Staf dapur memproses dan menyiapkan makanan
+    Staf mengantar makanan ke meja pelanggan
