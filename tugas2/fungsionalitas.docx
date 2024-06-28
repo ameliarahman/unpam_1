@@ -1,0 +1,23 @@
+SISTEM ORDER di RESTAURANT
+
+TERDAPAT 2 ROLE YAITU USER DAN KOKI
+
+#SISTEM ORDER di MEJA
+##FUNGSIONALITAS
+- User dapat melihat menu makanan yang tersedia, beserta deskripsi, harga, dan gambar
+- User dapat melakukan pencarian menu berdasarkan nama, kategori atau bahan utama
+- User dapat mengedit pesanan sebelum menekan tombol submit
+- User dapat memilih metode pembayaran (tunai, kartu kredit/debit, digital payment) atau melakukan pembayaran langsung dari meja
+- User dapat melihat riwayat pesanan mereka sebelumnya
+- User dapat memberikan feedback dan rating untuk makanan dan layanan
+
+#SISTEM UNTUK KOKI
+##FUNGSIONALITAS
+- Koki dapat melihat semua pesanan yang masuk secara real-time
+- Koki dapat mengubah status pesanan dari baru menjadi sedang diproses, selesai, atau siap diantar
+- Koki dapat melihat pesanan berdasarkan prioritas, misalnya pesanan yang harus diselesaikan lebih cepat
+- Koki dapat melihat riwayat pesanan yang telah selesai
+- Koki dapat memantau stok bahan baku dan menerima notifikasi ketika stok menipis
+- Koki dapat mengakses, mengedit, dan menambah resep baru
+- Koki menerima pemberitahuan khusus dari server atau manajemen mengenai pesanan khusus atau perubahan menu
+- Koki dapat melihat laporan kinerja harian, mingguan, atau bulanan
