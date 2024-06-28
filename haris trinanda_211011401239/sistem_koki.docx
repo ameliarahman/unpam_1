@@ -1,0 +1,25 @@
+Sistem Layanan Restoran: Sistem untuk Koki
+Tanggal: 22 Mei 2024
+Disusun oleh: [Haris Trinanda]
+
+A. Spesifikasi Fungsional
+
+No  | Fungsi                       | Deskripsi
+--- | ---------------------------- | -------------------------------------------------------------------------------------------
+1   | Manajemen Pesanan            | Koki dapat melihat dan mengelola daftar pesanan yang masuk, termasuk detail pesanan setiap pelanggan.
+2   | Notifikasi Prioritas         | Sistem memberikan notifikasi prioritas untuk pesanan yang perlu disiapkan terlebih dahulu berdasarkan waktu dan jenis pesanan.
+3   | Integrasi Resep              | Koki dapat mengakses resep dan instruksi memasak yang terkait dengan setiap pesanan secara langsung melalui sistem.
+4   | Manajemen Shift              | Sistem mengatur dan mengelola jadwal shift koki dan staf dapur, memastikan ketersediaan sumber daya yang cukup selama jam operasional.
+5   | Komunikasi Antar Staf        | Fitur komunikasi internal memungkinkan koki dan staf dapur untuk berkoordinasi lebih baik dalam menyiapkan dan menyajikan pesanan.
+
+B. Spesifikasi Non-Fungsional
+
+No  | Fungsi                       | Deskripsi
+--- | ---------------------------- | -------------------------------------------------------------------------------------------
+1   | Keandalan Tinggi             | Sistem harus selalu tersedia dan dapat diandalkan selama jam operasional dapur, dengan minimal downtime.
+2   | Kemudahan Pemeliharaan       | Sistem harus mudah untuk dipelihara dan diperbarui oleh tim teknis tanpa mengganggu operasi dapur.
+3   | Keamanan Akses               | Hanya staf yang berwenang yang dapat mengakses data pesanan dan stok dapur untuk menjaga keamanan informasi.
+4   | Skalabilitas                 | Sistem harus dapat diskalakan sesuai dengan peningkatan volume pesanan atau ekspansi restoran ke lokasi baru.
+5   | Kompatibilitas Perangkat     | Sistem harus kompatibel dengan berbagai perangkat keras dapur yang ada, seperti tablet, layar sentuh, dan printer pesanan.
+
+
