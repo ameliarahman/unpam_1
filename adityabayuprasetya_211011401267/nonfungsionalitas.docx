@@ -1,0 +1,12 @@
+Non-fungsionalitas sistem restoran bagi user mencakup : 
+- Sistem harus memiliki keamanan yang tinggi untuk melindungi data pribadi 
+- Kinerja sistem harus responsif dan cepat
+- Skalabilitas penting untuk menangani peningkatan jumlah pengguna dan transaksi tanpa menurunkan performa. 
+- Keandalan sistem harus tinggi dengan minimal downtime untuk memastikan layanan tersedia setiap saat
+- Sistem juga harus kompatibel dengan berbagai perangkat dan platform
+
+Non-fungsionalitas sistem restoran bagi koki mencakup :
+- Keamanan sistem harus memastikan bahwa hanya staf yang berwenang yang dapat mengakses informasi 
+- Kinerja sistem harus cepat dan responsif
+- Skalabilitas penting agar sistem dapat menangani peningkatan jumlah pesanan selama waktu sibuk tanpa menurunkan performa. 
+- Usabilitas sistem harus intuitif, dengan antarmuka yang mudah digunakan 
