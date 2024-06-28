@@ -9,7 +9,7 @@ No  | Fungsi                                | Deskripsi
 1   | Pemilihan Meja dan Jumlah Pengunjung  | Pelanggan dapat memilih meja yang tersedia dan memasukkan jumlah pengunjung sebelum melakukan pemesanan.
 2   | Personalisasi Menu                    | Pelanggan dapat mempersonalisasi pesanan mereka, seperti memilih opsi vegetarian atau bebas gluten, dan menambahkan atau menghapus bahan tertentu dari menu.
 3   | Rekomendasi Menu                      | Sistem memberikan rekomendasi menu berdasarkan pesanan sebelumnya atau popularitas menu tertentu di restoran.
-4   | Pelacakan Pesanan                     | Pelanggan dapat melacak status pesanan mereka secara real-time, mulai dari penerimaan pesanan di dapur hingga pesanan siap disajikan.
+4   | Pelacakan Pesanan                     | Pelanggan dapat mebrlacak status pesanan mereka secara real-time, mulai dari penerimaan pesanan di dapur hingga pesanan siap disajikan.
 5   | Ulasan dan Rating                     | Setelah selesai makan, pelanggan dapat memberikan ulasan dan rating terhadap makanan dan layanan yang mereka terima.
 
 B. Spesifikasi Non-Fungsional
