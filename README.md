@@ -2,6 +2,6 @@
 SDLC 1.
 Write down your bio:
 
-- Name: Amelia Rahman
-- Role: Backend Engineer
+- Name: Noor Mukhamad Taufiki
+- Role: UI\UX
 
